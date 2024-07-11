@@ -54,7 +54,7 @@ public class GameController : MonoBehaviour
         {
 #if !UNITY_EDITOR
             if (Input.GetTouch(0).phase != TouchPhase.Began)
-                return;
+                return; 
 #endif
             if (!firstCube)
             {
