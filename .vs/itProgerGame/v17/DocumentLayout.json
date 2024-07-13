@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\GameProj\\itProgerGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|e:\\gameproj\\itprogergame\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|E:\\GameProj\\itProgerGame\\assets\\scripts\\explodecubes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explodecubes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|E:\\GameProj\\itProgerGame\\assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|E:\\GameProj\\itProgerGame\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|E:\\GameProj\\itProgerGame\\assets\\scripts\\canvasbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|E:\\GameProj\\itProgerGame\\assets\\scripts\\explodecubes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explodecubes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|E:\\GameProj\\itProgerGame\\assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|e:\\gameproj\\itprogergame\\assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C5B2EB-D1FA-32BE-EDC8-1ED25BB4D4E6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraShake.cs",
+              "ToolTip": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraShake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:55:27.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RotateCamera.cs",
               "DocumentMoniker": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\RotateCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RotateCamera.cs",
@@ -38,19 +55,21 @@
               "RelativeToolTip": "Assets\\Scripts\\RotateCamera.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T11:01:22.455Z"
+              "WhenOpened": "2024-03-30T11:01:22.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ExplodeCubes.cs",
               "DocumentMoniker": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\ExplodeCubes.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExplodeCubes.cs",
               "ToolTip": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\ExplodeCubes.cs",
               "RelativeToolTip": "Assets\\Scripts\\ExplodeCubes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:13:30.476Z"
+              "WhenOpened": "2024-03-24T16:13:30.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,19 +79,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasButtons.cs",
               "ToolTip": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\CanvasButtons.cs",
               "RelativeToolTip": "Assets\\Scripts\\CanvasButtons.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:06:31.128Z"
+              "WhenOpened": "2024-03-24T16:06:31.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameController.cs",
               "DocumentMoniker": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\GameController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
               "ToolTip": "E:\\GameProj\\itProgerGame\\Assets\\Scripts\\GameController.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAzwDgAAAAYAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T12:43:50.126Z",
               "EditorCaption": ""
